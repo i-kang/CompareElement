@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author 阡陌兮
+ * @author moodjoy
  * @version 1.0.0
  * @date 2018-12-25 13:40
  * @description 元素比较
@@ -37,7 +37,7 @@ class CompareElement {
     /**
      * @param aEle 数组1
      * @param bEle 数组2
-     * @return diffElement
+     * @return diffElement（差异的元素）
      * @description 获取不同的元素
      **/
     static Set<Integer> getDiffElement(Integer[] aEle, Integer[] bEle) {
