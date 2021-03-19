@@ -1,5 +1,5 @@
 # CompareElement
-This is a simple demo about CompareElement
+用于记录常用的比较方式。
 ## 使用set集合
 将自身的重复元素去除。
 ## 借用中间集合
